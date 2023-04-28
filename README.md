@@ -11,4 +11,6 @@ Technologies:
 - SASS
 - BEM
 
-[DEMO LINK](https://partnersinbahamas.github.io/todo-app/);
+[DEMO LINK](https://partnersinbahamas.github.io/todo-app/)
+
+[Example](https://todomvc.com/examples/vanillajs/)
